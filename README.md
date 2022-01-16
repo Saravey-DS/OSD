@@ -1,7 +1,7 @@
 - 👋 Hi, I’m saravanan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python for backend
-- 💞️ I’m looking to collaborate on software engineering 
+- 🌱 I’m currently learning python and about software engineering
+- 💞️ I’m looking to collaborate with new coders and enage in projects
 - 📫 How to reach me : https://www.linkedin.com/in/saravanan-natarajan-3520a487/
 
 <!---
